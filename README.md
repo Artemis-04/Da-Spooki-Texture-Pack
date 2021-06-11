@@ -7,3 +7,5 @@ Most of the textures are from FurfSky_reborn and I have made a few to add on.
 [FurfSky](https://hypixel.net/threads/furfsky-reborn-1-3-0-the-update-that-textured-everything.4101579/) 
 
 More updates will be added soon
+
+<img src="ReadMe_assets/img1.png">
